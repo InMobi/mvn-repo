@@ -3,10 +3,11 @@
   <groupId>org.apache.hive</groupId>
   <artifactId>hive-serde</artifactId>
   <versioning>
-    <release>0.13.0</release>
+    <release>0.13.1-inm</release>
     <versions>
       <version>0.13.0</version>
+      <version>0.13.1-inm</version>
     </versions>
-    <lastUpdated>20140509121541</lastUpdated>
+    <lastUpdated>20140822045539</lastUpdated>
   </versioning>
 </metadata>

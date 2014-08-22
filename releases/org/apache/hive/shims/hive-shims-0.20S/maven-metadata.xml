@@ -3,10 +3,11 @@
   <groupId>org.apache.hive.shims</groupId>
   <artifactId>hive-shims-0.20S</artifactId>
   <versioning>
-    <release>0.13.0</release>
+    <release>0.13.1-inm</release>
     <versions>
       <version>0.13.0</version>
+      <version>0.13.1-inm</version>
     </versions>
-    <lastUpdated>20140509121421</lastUpdated>
+    <lastUpdated>20140822045357</lastUpdated>
   </versioning>
 </metadata>
