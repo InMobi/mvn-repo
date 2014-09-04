@@ -3,10 +3,11 @@
   <groupId>com.inmobi.grill</groupId>
   <artifactId>grill-driver-jdbc</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20140516113114</lastUpdated>
+    <lastUpdated>20140904054438</lastUpdated>
   </versioning>
 </metadata>
