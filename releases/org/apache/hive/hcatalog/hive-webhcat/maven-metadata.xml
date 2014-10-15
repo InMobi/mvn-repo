@@ -3,11 +3,12 @@
   <groupId>org.apache.hive.hcatalog</groupId>
   <artifactId>hive-webhcat</artifactId>
   <versioning>
-    <release>0.13.1-inm</release>
+    <release>0.13.2-inm</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1-inm</version>
+      <version>0.13.2-inm</version>
     </versions>
-    <lastUpdated>20140822063421</lastUpdated>
+    <lastUpdated>20141015063511</lastUpdated>
   </versioning>
 </metadata>
