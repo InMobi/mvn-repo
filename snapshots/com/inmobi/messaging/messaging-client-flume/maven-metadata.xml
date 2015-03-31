@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.inmobi.messaging</groupId>
+  <artifactId>messaging-client-flume</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150331210137</lastUpdated>
+  </versioning>
+</metadata>
