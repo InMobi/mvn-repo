@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.hive.hcatalog</groupId>
+  <artifactId>hive-webhcat</artifactId>
+  <version>0.13.4-inm-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150417.080037</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150417080037</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.13.4-inm-20150417.080037-1</value>
+        <updated>20150417080037</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.13.4-inm-20150417.080037-1</value>
+        <updated>20150417080037</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
