@@ -3,14 +3,15 @@
   <groupId>org.apache.hive.hcatalog</groupId>
   <artifactId>hive-hcatalog-streaming</artifactId>
   <versioning>
-    <release>0.13.4-inm</release>
+    <release>2.1.1-inm</release>
     <versions>
       <version>0.13.0</version>
       <version>0.13.1-inm</version>
       <version>0.13.2-inm</version>
       <version>0.13.3-inm</version>
       <version>0.13.4-inm</version>
+      <version>2.1.1-inm</version>
     </versions>
-    <lastUpdated>20150903095529</lastUpdated>
+    <lastUpdated>20160505140438</lastUpdated>
   </versioning>
 </metadata>
